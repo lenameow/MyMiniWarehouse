@@ -6,6 +6,11 @@ If you input more information like where the item is stored, you may search by i
 
 If you record the item's best before date, you may set an alert that reminds you the item is near its expiry. 
 
+<br>
+<br>
+[Privacy Policy](Privacy.md)  
+[Terms & Conditions](TermsAndConditions.md)
+
 ### Feel free to write us if you have any questions or suggestions:
 
 Email: lenahudev@gmail.com
