@@ -1,10 +1,9 @@
-Having stored too much food at home and forget how long the food could last? Unable to find the seasonings right when you need them? Finds it too much trouble to keep a record of your supplies? MyMiniWarehouse can help.
+Having stored too much food at home and forget how long the food could last? Unable to find the seasonings right when you need them? Finds it troublesome to keep a record of your supplies? 
 
-MyMiniWarehouse is an easy-to-use inventory management app that helps you manage food and other supplies at home. You may simply scan the barcode or record the item by its name. 
+MyMiniWarehouse, an easy-to-use inventory management app, can help you manage food or other supplies.
 
-If you input more information like where the item is stored, you may search by its position later. 
+Simply input basic information like name, quantity, category, and where your stuff are stored. When you are in need of them, search by name, category or position. For items with best before dates, you may set up reminders, and the app will let you know when they are near expiry. Exporting to Excel spreadsheet is supported.
 
-If you record the item's best before date, you may set an alert that reminds you the item is near its expiry. 
 
 <br>
 <br>
