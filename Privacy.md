@@ -2,7 +2,7 @@
 
 **Privacy Policy**
 
-We built the MyMiniWarehouse app ("小小仓 app" in Chinese, hereinafter referred to as "the App", "The App", or "THE APP") as a Free app. the App is provided by us and is intended for use as is.
+We built the MyMiniWarehouse app ("家庭小仓库app" in Chinese, hereinafter referred to as "the App", "The App", or "THE APP") as a Free app. the App is provided by us and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use the App.
 

@@ -2,7 +2,7 @@
 
 **Terms & Conditions**
 
-By downloading or using the MyMiniWarehouse app ("小小仓 app" in Chinese, hereinafter referred to as "the App", "The App", or "THE APP"), the terms & conditions on this page will automatically apply to you. Please read them carefully before using the App. 
+By downloading or using the MyMiniWarehouse app ("家庭小仓库 app" in Chinese, hereinafter referred to as "the App", "The App", or "THE APP"), the terms & conditions on this page will automatically apply to you. Please read them carefully before using the App. 
 
 **General Terms**
 
