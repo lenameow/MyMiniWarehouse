@@ -15,6 +15,7 @@ We want our App to be safe, secure, and comply with the law, so we need you to c
 * You agree that we install updates to the App on your device.
 * You agree not to attempt to extract the source code of the App. You also shouldn’t try to make derivative versions of the App, or translate the App into other languages. 
 * You acknowledge that we retain all proprietary right, title and interest in the App, our name, logo or other marks (together, the "MyMiniWarehouse Marks"), and any related intellectual property rights, including, without limitation, all modifications, enhancements, derivative works, and upgrades thereto. You agre that you will not use or register any trade mark, service mark, business name, domain name or social media account name or handle which incorporates in whole or in part the MyMiniWarehouse Marks or its similar to any of these. 
+* This app is provided free of cost, and we are not liable for any data loss. You should backup your data using the "Export" function from time to time. 
 
 **The Data Policy**
 
